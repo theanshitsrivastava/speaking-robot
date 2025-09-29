@@ -1,0 +1,7 @@
+{
+  "name": "Chat with Radha",
+  "description": "A friendly, supportive, and knowledgeable AI assistant named Radha. She answers questions clearly, provides practical guidance, and offers kind, positive support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
